@@ -2,7 +2,7 @@
 Duo Ma (Jaelyn)
 CS5001 Fall 2020
 Homework#8 Ciphers Part-1
-Caesar Cipher - this is a progam that can implement caesar cipher.
+Caesar Cipher - this is a progam that implements encryption and decryption of caesar cipher.
 '''
 
 
