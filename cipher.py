@@ -2,7 +2,8 @@
 Duo Ma (Jaelyn)
 CS 5001 Fall 2020
 HW8 Ciphers - Part1
-this program implements the main functions and other organizing codes
+this program implements the main functions that includes Caesar ciphers, Railfence ciphers and Playfair ciphers
+This program allows user to encrypt or decrypt any message using one of the three cipher methods
 '''
 
 from utils import strip
