@@ -2,8 +2,8 @@
 Duo Ma (Jaelyn)
 CS5001 Fall 2020
 Homework#8 Cipher Part-1
-Rail Fence Cipher: this program implement an approach of encryption called
-Rail Fence Cipher
+Rail Fence Cipher: this program implement an approach of encryption 
+and decryption method called Rail Fence Cipher
 '''
 
 
